@@ -1,0 +1,55 @@
+{
+  "body": {
+    "at": "2026-11-14T05:22:39.728206+00:00",
+    "made_at": "2026-11-14T05:24:39.743698+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "de2b910cf1e46ec6b9d38fd72e04e11b098e36e898d5e2b94300d1c313cd3021",
+    "seq": 2,
+    "tables": {
+      "contemplations": {
+        "count": 1,
+        "root": "074f4661dbf192eb0e89e28f8a11eeccc27b2708b0b4dc8788f7370c25c11d33"
+      },
+      "draws": {
+        "count": 1,
+        "root": "1fd91699a35774d84c2aad735c83c36ffe9de09e1daba72d2f1e21937f29fe5a"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 8,
+        "root": "48037babe03a3985d3820b94bd1e2138c2a51d7925413e6f143044c5f6362702"
+      },
+      "model_calls": {
+        "count": 146,
+        "root": "ae86266305266bf156e0f92d25eb311535c0ba92796e32b189ddc79257635762"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 7,
+        "root": "feced98d71e54c5b7209748d19795614b3c0dbc07c8a7e8ab72e201f547179e7"
+      },
+      "runs": {
+        "count": 7,
+        "root": "ace1c6be3f9bb1d9add268a06e0c597c15ebc209172565b7ef5fafd1a60f13c3"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 162,
+        "root": "f506fcfb98cbaf94ca992abbcd7bd1b1b607d5da08c3509d86163707303e44db"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "6b736d8f4d9de4f9842a7bc0a08f8199a89cb6db209de4714fa447bfe945a6df",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "srWm/FieVj0uHDTkw+6AWsY0PQDteR1E7dIX+qTm3tDgkYSzMS4SMwo4l/kpgBHyKYhmP0TXJQ/etqVMs6zTAQ=="
+}
