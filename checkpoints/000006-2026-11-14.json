@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-14T08:55:16.197218+00:00",
+    "made_at": "2026-11-14T08:57:16.214139+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "1034e218cc2b8d0ed89d29049f873a4913ec86753f4bc29ed05e084276982f14",
+    "seq": 6,
+    "tables": {
+      "contemplations": {
+        "count": 2,
+        "root": "a96614c62630152d01fe208df6e184e0914f58ac4c4c991f9d1c4efa094aa83e"
+      },
+      "draws": {
+        "count": 2,
+        "root": "a86e1b3ffe498ebffcaab0de7c8197b537ce753a80d70ad00f006db71f6b30a7"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 10,
+        "root": "801c3c9926b8da863ab1d2225055a4292c5211a07a87db6e2e4da13a719baf45"
+      },
+      "model_calls": {
+        "count": 196,
+        "root": "d0a782900948779b37578fb1aaf17b292a465490c8e3d1c3bf4c0a4ae74b21b7"
+      },
+      "peer_messages": {
+        "count": 6,
+        "root": "882c1d0a2d548f75c92e3bc47a3d7d162a32f54f7f1db176df3da0db93c248f5"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 8,
+        "root": "7d92b713a2e474bde88cd3ae6b28beec1b16ff270b0e3df286c35c3ae212172c"
+      },
+      "runs": {
+        "count": 8,
+        "root": "d409f65a52c6224ad8e5bc255ae4b115834eaa75d87d39db7ba69d5c1e597d4b"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 240,
+        "root": "dc26ff8afbd609c2fa17f1ccc71edae781b27373b31cd57f851cb17b7ddbd6ae"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "6ac542129ba76f69df388c5f5b982f56c8aeb27b2ff49c1d76341a34ddcd95e4",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "ELJYoc3q0hhxg7cE3eS72kkCh3akPxzqrA8PaAL/ydhzfasg71MMVjnPurIE+CPb8x+IK6txAX/fdCGd94VjAg=="
+}
