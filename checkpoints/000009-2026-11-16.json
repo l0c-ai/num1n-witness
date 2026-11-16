@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-16T06:14:08.391580+00:00",
+    "made_at": "2026-11-16T06:16:08.406480+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "022a77242689b88d2175fae83d4dfea5da31aef719b63dc8880ade15cbdcdbe8",
+    "seq": 9,
+    "tables": {
+      "contemplations": {
+        "count": 4,
+        "root": "75235e54e5297f18977c121188a1d77291da6c33a3424d6b78a139c64bdc8f40"
+      },
+      "draws": {
+        "count": 4,
+        "root": "b650c38bdd024522671b0e68269f338949eae8b5279976ee7e181f8976b0ab76"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 14,
+        "root": "33879823a2180b1cbfc0c67c6ed69203b9da60195b29832977383055056cab89"
+      },
+      "model_calls": {
+        "count": 216,
+        "root": "c02076b27ecb09d2344fe47527a811a29fa19a3777ac44dfe68a4b48bfb9c774"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 10,
+        "root": "eb3c171bcfddd69831e96a6b1afe99f59694ca05269734d2376fa83527a178df"
+      },
+      "runs": {
+        "count": 10,
+        "root": "6385d4ad8adcbcc5d6d360bfada5472aa5d949a43d9e743d9350e41fee97414a"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 240,
+        "root": "dc26ff8afbd609c2fa17f1ccc71edae781b27373b31cd57f851cb17b7ddbd6ae"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "e718f06b1fac4667a040014e5f2ad6e113849643e59a5997249fe6c6e824a247",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "hKZU9/p5Bdyw31pgQu0ekjSgMGUXk5Ra6vTI4K6M0kVeh/aVEzfyoXtoQOxi+MOAElc2i9epHXXjK5cEYM9pAg=="
+}
