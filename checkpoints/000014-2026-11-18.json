@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-18T05:31:43.297612+00:00",
+    "made_at": "2026-11-18T05:33:43.316227+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "7f95cfef673960f4d492cdf84ba92ff09366d1e47abcb929217f523e5923f89f",
+    "seq": 14,
+    "tables": {
+      "contemplations": {
+        "count": 6,
+        "root": "74bc59fd9fec8478aa385a307794c80d4d31e2b276445643927c1679300fae14"
+      },
+      "draws": {
+        "count": 6,
+        "root": "b6b71cd41c151e69014ecd629bd995bcc9c49d98b0035c17e39680d7926a00b2"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 18,
+        "root": "626d6d9798f377ee760e1d72f8a0137fc4f543c7cf05b39b418689ccff7e4bd8"
+      },
+      "model_calls": {
+        "count": 253,
+        "root": "50f50836a40378001d49f9eb4e2e9d7f7933cc30d934131e292d4da8e7ca4dc5"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 11,
+        "root": "a0fc6c9421788c9c3a8ecea3f61935b729211b3c24e0d9ab25a7d5f88b793b22"
+      },
+      "runs": {
+        "count": 12,
+        "root": "bc9294a395e5206e207b831b717c6c36334bfa84adfe7f538ecfddb370da9e86"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 271,
+        "root": "82a3528d6758c4b49d786c6b4a1f28278b493e62ece329dd7276fb9a8308f6eb"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "aeb5b3f480f9b938eb44fe345aa038c56ed53aa6c04fe152529924d3820f099c",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "0nt9ka1rA/f9S5Sxws6lBDAUG9+0CSSP69ADG+QLXeCwVb/yGhTyNm1+U4xh7u4vi5ZLZmTkjzsBJIZCV1rtAg=="
+}
