@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-19T21:54:31.417996+00:00",
+    "made_at": "2026-11-19T21:56:31.439051+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "d17ea818a5a30e1199a733e50fa26e40db6c579500eab92e559cafbaa57b6a0c",
+    "seq": 17,
+    "tables": {
+      "contemplations": {
+        "count": 7,
+        "root": "bc6cd4817dc1783ab52b8062d066d76cb7827067d145661c6176cb4f6ec5f8a4"
+      },
+      "draws": {
+        "count": 7,
+        "root": "717c21d9da373fe284e051398de25fbb709bb2ab5d700c3e83cc77390210fe4c"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 20,
+        "root": "9e9ac62d289ecdea85864aa055f5d34bb5c29d25b4eac2649c55c2a9a391e0ae"
+      },
+      "model_calls": {
+        "count": 264,
+        "root": "95a7eed27bc1fcf90901d4e88a0316b63bb94a85c47c75305d0db05e25260588"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 12,
+        "root": "c68842d793c2e9a5df9b9c539f0bbad1f1709858a6a660d9037da38e9b79c11e"
+      },
+      "runs": {
+        "count": 13,
+        "root": "c626a2b1e5409655fa86b3b590015ae96c98b05f91786a98917ac537ccd311b2"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 272,
+        "root": "0c3a01ebaf00ca0aaf373f33fb10a3e3cfd332d1504c5533810cff3aa62230ee"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "613415d61ed971dc98b9e07c8c36face8d304c864800b8250663362623006a48",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "ebyOPl9GS02Tl/mN0nb9MGBx8s/cR0ngXvcpXm4f3T4O2N7Xq/MvoNkLoqGjgSlXHG57n/ZZmtXtEkSgMqpTDw=="
+}
