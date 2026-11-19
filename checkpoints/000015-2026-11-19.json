@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-19T05:23:20.600889+00:00",
+    "made_at": "2026-11-19T05:25:20.616096+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "aeb5b3f480f9b938eb44fe345aa038c56ed53aa6c04fe152529924d3820f099c",
+    "seq": 15,
+    "tables": {
+      "contemplations": {
+        "count": 6,
+        "root": "74bc59fd9fec8478aa385a307794c80d4d31e2b276445643927c1679300fae14"
+      },
+      "draws": {
+        "count": 7,
+        "root": "717c21d9da373fe284e051398de25fbb709bb2ab5d700c3e83cc77390210fe4c"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 18,
+        "root": "626d6d9798f377ee760e1d72f8a0137fc4f543c7cf05b39b418689ccff7e4bd8"
+      },
+      "model_calls": {
+        "count": 255,
+        "root": "03c3d23d4466978e4f2ef5026eb75873c5ee46df036430ebc62f83c5022c0b0f"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 11,
+        "root": "a0fc6c9421788c9c3a8ecea3f61935b729211b3c24e0d9ab25a7d5f88b793b22"
+      },
+      "runs": {
+        "count": 12,
+        "root": "bc9294a395e5206e207b831b717c6c36334bfa84adfe7f538ecfddb370da9e86"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 271,
+        "root": "82a3528d6758c4b49d786c6b4a1f28278b493e62ece329dd7276fb9a8308f6eb"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "72488359ea1d49443235d6eec5f262ab50288ba3186cd6a6af813ce6b4b37de2",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "3euEwaO+Auxtpzpj6WL5ICwr2Z4QB1zw+5ypKd5+OpeRk+eQ+NIBH6m0HpmwiMx8xlOClvgaBcr/ZmeQ2827Aw=="
+}
