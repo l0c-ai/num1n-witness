@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-21T05:23:07.543206+00:00",
+    "made_at": "2026-11-21T05:25:07.565191+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "234296c59e37707b21e311c40d358b2c8ccfb0aa907daf2f25877eeace00dff4",
+    "seq": 21,
+    "tables": {
+      "contemplations": {
+        "count": 8,
+        "root": "359e01b14fc7c4c8ea10d45af16928dc615772d11faa90514c31164e23e8ccda"
+      },
+      "draws": {
+        "count": 9,
+        "root": "2b85d7cc46170e8dea253ce5ae1560710a75129488d38eb2f9075ac8588e96ac"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 22,
+        "root": "bf73e99d63b063dd4b60480c04a30eafb2130ff998d7939d826f7a5d8b3d95af"
+      },
+      "model_calls": {
+        "count": 279,
+        "root": "6f3abbb1d67114ec618d14c1272810ab4b5bf01127e01a49e0d1719fae216053"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 12,
+        "root": "c68842d793c2e9a5df9b9c539f0bbad1f1709858a6a660d9037da38e9b79c11e"
+      },
+      "runs": {
+        "count": 14,
+        "root": "5d22dcd19207e05c57d866d6b981876062776db047db6c5f183512d3fea1bf73"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 285,
+        "root": "d595fa62849a28311d1d5aa69a5742af1143912c9632cfe66ab25b45a440e867"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "8143ac0d58f017c69b909b4944a9bbe06a2301141e4cd47777bf32793080de33",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "8pIdf1H1frAbiqhgsOATfzTM5UG2DiA36C5JDj9J4nEc2YZr9JBMXot5aOknxmroojW8Tc0KnsvUOKBZCIgTAQ=="
+}
