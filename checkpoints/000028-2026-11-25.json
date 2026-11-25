@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-25T05:57:47.282202+00:00",
+    "made_at": "2026-11-25T05:59:47.298722+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "b77898312f9667ff4fb0af7be2118eace7fbd2f5a8fe3ed33ee7e88055251f44",
+    "seq": 28,
+    "tables": {
+      "contemplations": {
+        "count": 13,
+        "root": "feb6d9333048f493ce6a806c1db0a37fae394f1c5ebf5e2d2caf982d49ea255f"
+      },
+      "draws": {
+        "count": 13,
+        "root": "52a7e776856d50d15b770c75af125d743eea7833713b48d69e398fe838aea0c3"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 32,
+        "root": "5ca6f69350cb46e7e4abaeddc7ea85fc98718ed81734161029aaeddada9e04c5"
+      },
+      "model_calls": {
+        "count": 328,
+        "root": "b1d5658f1e217f6666343a60f18d032fd685d9ace16b52b65d21e524cabeba5d"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 17,
+        "root": "b5d039af18f88411f6d06a31a926f4eeaf216edb933d01bdcc047387942c5936"
+      },
+      "runs": {
+        "count": 19,
+        "root": "683399b4f2c73e201b5d6a18fd3a912ed21cdd782e8e6ed25865e18116620910"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 290,
+        "root": "ea726413faabf77e95f53669ec8f23ef32fcddaa71ba0f96e9320d8d9667ddaa"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "a128c3b96f4e0c97262d303af4bfe005ede7f879f5fc1b51e9900356ec2ef96a",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "MPpS0BbwMjMifXodGYom5ICrKW/CQdWy7Hg2Itj6GZTq/ei1jmtBFstUzHxJmEjaR+HSnde0aZaWMlLpvN1qAw=="
+}
