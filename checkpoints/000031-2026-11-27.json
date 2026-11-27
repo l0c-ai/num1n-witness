@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-27T05:23:11.451923+00:00",
+    "made_at": "2026-11-27T05:25:11.470149+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "fb8f9485c77e21bd40db9bac8ed06a51d8b31c7b8da100d6b5fe87b2d4e4db8a",
+    "seq": 31,
+    "tables": {
+      "contemplations": {
+        "count": 14,
+        "root": "44908f409540ed38dbc94b89d337c946e1e7a49018d0d87a28142376b581ee1f"
+      },
+      "draws": {
+        "count": 15,
+        "root": "0a27fa83685fcea393e5b26f1e3256413f29b00a9c849ec2ef5cd78ec39eadff"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 34,
+        "root": "76240c27e4d6f18650aa25586a0b8958cd520687a5d8d69b78774a6d55540209"
+      },
+      "model_calls": {
+        "count": 339,
+        "root": "ad942de1ac28936dfd7071f0bdf3bb01cacf02da11e69361ad2af6faac81b2a7"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 18,
+        "root": "75ce7ac326118c5cf0b3ef31cb537dc99d059db9d1453ee8f467f36292079320"
+      },
+      "runs": {
+        "count": 20,
+        "root": "12a6c810dfc37849cd10355e903e0b4157f405c7919bc4ce0da1b390fbcd04b8"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 290,
+        "root": "ea726413faabf77e95f53669ec8f23ef32fcddaa71ba0f96e9320d8d9667ddaa"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "e744d1b9bb6a012d97f909081808870a5f125146bb9d37668bb29b6c267c4da6",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "ckhk5++Q6afSa96mPRLN/ByHx8hEO911AC7i4SMjs9iuflGmc95yZ55fbZcbTcTnrVnscKG8vxuAzl9Vm8j1Dg=="
+}
