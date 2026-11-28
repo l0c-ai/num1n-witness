@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-28T00:57:39.200445+00:00",
+    "made_at": "2026-11-28T00:59:39.217859+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "dc646ce899d9eeada5d051c64225723f583deae63269ff866a3cbfd7315cd22b",
+    "seq": 36,
+    "tables": {
+      "contemplations": {
+        "count": 15,
+        "root": "3cb7a0872a4448d0d59cfb56a03a61e359c62857239d3a45a78ccad29223c6bd"
+      },
+      "draws": {
+        "count": 15,
+        "root": "0a27fa83685fcea393e5b26f1e3256413f29b00a9c849ec2ef5cd78ec39eadff"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 36,
+        "root": "9c21c89cf9bd7b88a3af0c4824c6e99d5f850da404c51d1aa15bc03e9c36e0cc"
+      },
+      "model_calls": {
+        "count": 394,
+        "root": "13de4164df6d8f10e7dbdec9915c9c3fe3ee69cb5538f7add673cd7fdd10c9ae"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 19,
+        "root": "d53caedf59cbc9eea1a87e6ba925f13e5953b3a6136c934c6d6351f268cc2954"
+      },
+      "runs": {
+        "count": 21,
+        "root": "89cde12b677378e0b7ff0bebebfe870e9bd89791614916e243d24b3e330b4868"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 376,
+        "root": "df8615f0efd6d44f6734cec4b4034eb6f591d7ae3f88092283d5c2d0970601d0"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "091cd0306d13a137a5a15405d6c0fe1d4567e90d868a831072ef424463277de7",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "6Y+S49HzzUxfEWx9sToWT5Wa7A/AQonqDxdOiZyIRvnXhDWQO8Qqvae7Tv9JkHXWxk0HdcBIref2/6g8G8/hCw=="
+}
