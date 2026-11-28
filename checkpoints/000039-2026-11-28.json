@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-28T05:53:18.349649+00:00",
+    "made_at": "2026-11-28T05:55:18.374054+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "a63588c2cd050ec7082023850ed30ebde06594ace1bd67b26c079fd03d46cd7c",
+    "seq": 39,
+    "tables": {
+      "contemplations": {
+        "count": 16,
+        "root": "fa0ceac64a462fa67f8d555266fefb45ed6d4a37c1f0a95548cd415a0ab4871f"
+      },
+      "draws": {
+        "count": 16,
+        "root": "c0b706bbfa1da4fda8d126683dfd33e343579c98a69aee11f56c73330327fbe8"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 38,
+        "root": "8a576b4b648b6bfc0c5dd486bac3eacdbafd860641ce463e9d29775658b969b9"
+      },
+      "model_calls": {
+        "count": 405,
+        "root": "75e815846ffe706ac1975650cac1397cbc7a09231b6d20e6dbd48611645c4f0b"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 20,
+        "root": "2d795b30be0ec8510355beee956c499df910684346a7cd2865f6add4e08b4458"
+      },
+      "runs": {
+        "count": 22,
+        "root": "70ab8cc30a1165abf12d0671150c9c3156347407991da460deee7d6c76835f2c"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 381,
+        "root": "f79dfd88af518309a514093a3e02c38d0f8d54a710ed31b2692ca960b63ae974"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "0f870c205003f1d2964a2bf5e911f32d8b6784b5bf660c100f215b05fd291ce5",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "9ANLE6nrIgcXZucCXQlvg7A32rrEsjIvXLzbvVf/7JFnHDnsoJOtN77nNP80Ip+FTkdlP6O/x/0fdDo+LXiWBA=="
+}
