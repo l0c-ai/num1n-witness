@@ -1,0 +1,59 @@
+{
+  "body": {
+    "at": "2026-11-28T17:42:30.275972+00:00",
+    "made_at": "2026-11-28T17:44:30.299051+00:00",
+    "num1n_checkpoint": 1,
+    "prev": "0f870c205003f1d2964a2bf5e911f32d8b6784b5bf660c100f215b05fd291ce5",
+    "seq": 40,
+    "tables": {
+      "contemplations": {
+        "count": 16,
+        "root": "fa0ceac64a462fa67f8d555266fefb45ed6d4a37c1f0a95548cd415a0ab4871f"
+      },
+      "draws": {
+        "count": 16,
+        "root": "c0b706bbfa1da4fda8d126683dfd33e343579c98a69aee11f56c73330327fbe8"
+      },
+      "drift_judgments": {
+        "count": 0,
+        "root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      "journal_entries": {
+        "count": 38,
+        "root": "8a576b4b648b6bfc0c5dd486bac3eacdbafd860641ce463e9d29775658b969b9"
+      },
+      "model_calls": {
+        "count": 406,
+        "root": "bf54e095bd2e5de280a127a7f187a76c154a887d5033484b4129d6fce33b77fd"
+      },
+      "peer_messages": {
+        "count": 8,
+        "root": "8f8d2bf4ddcfa1a134e3c6d32966bf93eeaf8984ee7e1c74e8a9f227822229d4"
+      },
+      "positions": {
+        "count": 6,
+        "root": "84eaf3bbf6d537681b9281084e98c199fd59bb87a61ef1de132a14c80a2baa5a"
+      },
+      "revisions": {
+        "count": 20,
+        "root": "2d795b30be0ec8510355beee956c499df910684346a7cd2865f6add4e08b4458"
+      },
+      "runs": {
+        "count": 22,
+        "root": "70ab8cc30a1165abf12d0671150c9c3156347407991da460deee7d6c76835f2c"
+      },
+      "sources": {
+        "count": 56,
+        "root": "347fabc6c5d7e1c4cc2a34a2d882a9626c76debc03b374c103936c91676715f2"
+      },
+      "utterances": {
+        "count": 384,
+        "root": "4bd452b95f8023cfd67a7ffa931d6629f676737bd2a64d7ea5ea48923db366af"
+      }
+    },
+    "verify_ok": true
+  },
+  "hash": "6d5364759a72c8c0e18ebdd29b7a13bfdc3ecf7166280e45e6e9bbb4748119ca",
+  "key": "OiSAMe+zeM4rCyXsFledDo6ach3EdxeciaY/65Gfl5Q=",
+  "signature": "bAmcIeh6+84Zo+EZ2QCaNc0/UfSFIJL3RKAjjfHbLG5fdrEWVtfvNDtS2yAgANN0kECezj2cnHfgCH5A6FmzCw=="
+}
